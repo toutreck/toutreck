@@ -15,13 +15,13 @@ _-leaning python_
 -->
 _-I'm an Electrical engineering undergraduate
 
--I love drawing, you can check my **[instagram](https://www.instagram.com/tou_treck/)** \!_
+_-I love drawing, you can check my **[instagram](https://www.instagram.com/tou_treck/)** \!_
 
 ## :rocket: Week goals: ...
 <!--
 -->
--[ ]Improve the profile by adding photos
--[ ]start writing ideas for a new proyect (assimple as possible)
+-  [ ] Improve the profile by adding photos
+-  [ ] start writing ideas for a new proyect (as simple as possible)
 
 
 <!--
