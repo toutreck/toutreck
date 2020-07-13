@@ -1,5 +1,5 @@
 # Hi there 👋✨
-My name is Laura Guzman, nice to meet you. 
+_My name is Laura Guzman, nice to meet you. _
 
 
 ## 🌱 I’m currently learning: ...
@@ -20,8 +20,8 @@ _-I love drawing, you can check my **[instagram](https://www.instagram.com/tou_t
 ## :rocket: Week goals: ...
 <!--
 -->
--  [ ] Improve the profile by adding photos
--  [ ] start writing ideas for a new proyect (as simple as possible)
+_-  [ ] Improve the profile by adding photos
+-  [ ] start writing ideas for a new proyect (as simple as possible)_
 
 
 <!--
