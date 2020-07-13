@@ -1,4 +1,6 @@
 # Hi there 👋✨
+<!--
+-->
 _My name is Laura Guzman, nice to meet you. _
 
 
@@ -20,8 +22,8 @@ _-I love drawing, you can check my **[instagram](https://www.instagram.com/tou_t
 ## :rocket: Week goals: ...
 <!--
 -->
-_-  [ ] Improve the profile by adding photos
--  [ ] start writing ideas for a new proyect (as simple as possible)_
+_-  [ ] Improve the profile by adding photos._
+_-  [ ] start writing ideas for a new proyect (as simple as possible.)_
 
 
 <!--
