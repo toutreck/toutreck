@@ -1,7 +1,7 @@
 # Hi there 👋✨
 <!--
 -->
-_My name is Laura Guzman, nice to meet you. _
+My name is Laura Guzman, nice to meet you.
 
 
 ## 🌱 I’m currently learning: ...
