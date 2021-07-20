@@ -19,6 +19,8 @@ _-I'm an Electrical engineering undergraduate
 
 _-I love drawing, you can check my **[instagram](https://www.instagram.com/tou_treck/)** \!_
 
+_-Hobbyist photographer, check my work at **[instagram](https://www.instagram.com/lygaphotos/)** \!_
+
 ## :rocket: Week goals: ...
 <!--
 -->
