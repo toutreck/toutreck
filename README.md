@@ -24,7 +24,7 @@ _-Hobbyist photographer, check my work at **[instagram](https://www.instagram.co
 ## :rocket: Week goals: ...
 <!--
 -->
-_-  [ ] Improve the profile by adding photos._
+
 _-  [ ] start writing ideas for a new proyect (as simple as possible.)_
 
 
