@@ -7,10 +7,11 @@ My name is Laura Guzman, nice to meet you.
 ## 🌱 I’m currently learning: ...
 <!--
 -->
-_-how to use **GitHub**_ :+1:
+_-reviewing Assembly:+1:
 
 _-leaning python_
 
+_-Reviewing C++
 
 ## ⚡ Fun fact: ...
 <!--
@@ -21,11 +22,11 @@ _-I love drawing, you can check my **[instagram](https://www.instagram.com/tou_t
 
 _-Hobbyist photographer, check my work at **[instagram](https://www.instagram.com/lygaphotos/)** \!_
 
-## :rocket: Week goals: ...
+## :rocket: current project: ...
 <!--
 -->
 
-_-  [ ] start writing ideas for a new proyect (as simple as possible.)_
+_-  [ ] street lights for  cars and passenger in C, with no car accidents
 
 
 <!--
